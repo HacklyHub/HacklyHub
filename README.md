@@ -6,6 +6,22 @@
 - 📫 How to reach me: @githackly@gmail.com
 - ⚡ Fun fact: ⚽ 🥇 ♟
 
+<details>
+<summary>My top Skills</summary>
+
+| Rank | Skills |
+|-----:|-----------|
+|     1| Network and Cybersecurity|
+|     2| DevOps & Automation  |
+|     3| Telecom Systems  |
+
+</details>
+
+---
+> Learning something today will benefit you later, The future will prove me right
+
+— HacklyHub
+
 <!--
 **HacklyHub/HacklyHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
