@@ -1,4 +1,10 @@
-## Hi there 👋
+## 😃 welcome 👋 to my unique ✅ and fascinating🧩 HackWorld 😇
+
+- 🔭 I’m currently working on my own cybersecurity and coding projects
+- 🌱 I’m currently learning Great thing in cybersecurity and networks
+- 👯 I’m looking to collaborate on some interesting and impactful cybersecurity projects
+- 📫 How to reach me: @githackly@gmail.com
+- ⚡ Fun fact: ⚽ 🥇 ♟
 
 <!--
 **HacklyHub/HacklyHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
